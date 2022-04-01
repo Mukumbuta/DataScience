@@ -1,5 +1,5 @@
 CREATE TABLE STUDENTS(
-   id       INT    AUTO INCREMENT    NOT NULL,
+   id       INT    AUTO_INCREMENT    NOT NULL,
    name     VARCHAR (20)             NOT NULL,
    age      INT                      NOT NULL,
    address  CHAR (25) ,
